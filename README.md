@@ -1,33 +1,62 @@
-# Hey, I'm Mohaiminur 👋
+# Mohaiminur Rahman
 
-I'm a **software engineer, technical leader and co-founder** who likes turning
-ideas into shipped products.
+### I build games, systems, and teams.
 
-I spend most of my time building:
-- 🎮 Mobile games
-- 🌐 Multiplayer & backend systems
-- ☁️ Scalable game infrastructure
-- 📊 Live-service & monetization systems
+I'm a **software engineer, technical leader, and co-founder** with 10+ years of experience turning ideas into shipped products.
 
-I've been doing this for **10+ years**, from freelancing and early-stage
-startups to leading engineering teams and now building a self-publishing
-game studio.
+Most of my work lives somewhere between **gameplay, multiplayer, backend engineering, infrastructure, and live operations**.
 
-### Currently
+```text
+10+ years      → Game development
+30+ games      → Shipped across multiple projects
+1M+ titles     → Multiple games reaching 1M+ downloads
+8M+ players    → Products operated at significant scale
+```
 
-🚀 **Co-Founder & CTO — FunFuse Games**
+## Currently building
 
-Building games, infrastructure and the team behind them.
+🚀 **FunFuse Games — Co-Founder & CTO**
 
-### Things I've shipped
+Building a self-publishing mobile game studio from the ground up — including the games, technology, infrastructure, and engineering culture behind them.
 
-**30+ games · Multiple 1M+ download titles · 8M+ player scale**
+## What I enjoy building
 
-### Tech
+🎮 **Games** — gameplay, systems, player experience
+🌐 **Multiplayer** — real-time gameplay, networking, social systems
+🏗️ **Backend** — services that survive real players and real traffic
+☁️ **Infrastructure** — scalable, observable and boring-in-a-good-way systems
+📈 **Live Operations** — analytics, monetization, experimentation and iteration
+👥 **Teams** — engineering culture, architecture and helping people grow
 
-`Unity` `C#` `Node.js` `TypeScript` `AWS` `PostgreSQL` `Redis`
-`Docker` `Firebase` `PlayFab` `Jenkins`
+## My usual toolbox
 
-### Elsewhere
+**Game**
+`Unity` `C#`
 
-[LinkedIn](https://www.linkedin.com/in/nixonok) · [FunFuse Games](https://funfusegames.com/)
+**Backend**
+`Node.js` `TypeScript` `PostgreSQL` `Redis`
+
+**Cloud & Infrastructure**
+`AWS` `Docker` `Firebase` `PlayFab` `Jenkins`
+
+## A few things I've learned
+
+> Shipping beats polishing forever.
+
+> Simple systems are usually easier to scale than clever ones.
+
+> Games are products, not just software.
+
+> The best engineering teams don't need someone telling them what to code every hour.
+
+## Before the current chapter
+
+I've worked across **freelancing, startups, game studios and engineering leadership**, including building multiplayer products, leading engineering teams and taking games from early prototypes to millions of players.
+
+## Find me elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/nixonok) · [FunFuse Games](https://funfusegames.com/) 
+
+---
+
+*Still learning. Still building. Still shipping.*
