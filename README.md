@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nixonok)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/NixonOk/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_nixonok)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nixonok1)
 
 ### Good to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=nixonok.nixonok&style=flat-square&color=0088cc)
 
@@ -43,16 +42,3 @@ I'm a software engineer and self-taught game dev ❤️. I love to explore new t
 <code><img title="AWS" height="35" src="https://github.com/nixonok/nixonok/blob/master/images/jquery-original.svg"></code>
 
 <img align="right" height="220" width="220" alt="" src="https://raw.githubusercontent.com/nixonok/nixonok/master/anims/mac.gif" />
-
-### How I Work?:
-
-- OS : macOS Sonoma
-- Machine : Macbook Pro 16 inch (M1 Pro)
-- Browser : Chrome
-- Code Editor : JetBrains Rider
-- Game Engine : Unity3D
-- Server Stack : AWS, NodeJS, TypeScript
-
-### Listening To Now:
-
-&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g7fqbykkpbylfgoewkj4zabs7a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31g7fqbykkpbylfgoewkj4zabs7a&redirect=true)
