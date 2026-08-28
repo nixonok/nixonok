@@ -21,12 +21,12 @@ Building a self-publishing mobile game studio from the ground up — including t
 
 ## What I enjoy building
 
-🎮 **Games** — gameplay, systems, player experience
-🌐 **Multiplayer** — real-time gameplay, networking, social systems
-🏗️ **Backend** — services that survive real players and real traffic
-☁️ **Infrastructure** — scalable, observable and boring-in-a-good-way systems
-📈 **Live Operations** — analytics, monetization, experimentation and iteration
-👥 **Teams** — engineering culture, architecture and helping people grow
+- 🎮 **Games** — gameplay, systems, player experience
+- 🌐 **Multiplayer** — real-time gameplay, networking, social systems
+- 🏗️ **Backend** — services that survive real players and real traffic
+- ☁️ **Infrastructure** — scalable, observable and boring-in-a-good-way systems
+- 📈 **Live Operations** — analytics, monetization, experimentation and iteration
+- 👥 **Teams** — engineering culture, architecture and helping people grow
 
 ## My usual toolbox
 
