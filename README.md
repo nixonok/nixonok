@@ -1,6 +1,6 @@
 # Hey, I'm Mohaiminur 👋
 
-I'm a **game developer, technical leader and co-founder** who likes turning
+I'm a **software engineer, technical leader and co-founder** who likes turning
 ideas into shipped products.
 
 I spend most of my time building:
